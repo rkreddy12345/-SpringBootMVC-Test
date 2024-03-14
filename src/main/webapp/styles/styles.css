@@ -1,0 +1,16 @@
+#dtlstable{
+    width:50%;
+    border-collapse:collapse;
+    text-align:center;
+    border:1px solid #00F;
+    font-size:15px;
+    }
+
+span{
+    color:red;
+    }
+
+#frmtable{
+    border:1px solid #00F;
+    font-size:15px;
+}
